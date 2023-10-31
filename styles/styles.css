@@ -27,7 +27,7 @@ body{
     
 }
 .principal{
-    background-image: url(assents/Background.png);
+    background-image: url(/assents/Background.png);
     background-repeat: no-repeat ;
     background-size: contain;
     text-align: center;
